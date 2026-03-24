@@ -27,9 +27,6 @@ Dataset details:
 - Test images: 10,000
 - Image resolution: 28 × 28 pixels
 
-Reference:
-
-LeCun, Y., Bottou, L., Bengio, Y. and Haffner, P., 1998. Gradient-based learning applied to document recognition.
 
 ## Neural Network Architecture
 
